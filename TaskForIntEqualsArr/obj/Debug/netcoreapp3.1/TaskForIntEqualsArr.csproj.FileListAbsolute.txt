@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\bin\Debug\netcoreapp3.1\TaskForIntEqualsArr.exe
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\bin\Debug\netcoreapp3.1\TaskForIntEqualsArr.deps.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\bin\Debug\netcoreapp3.1\TaskForIntEqualsArr.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\bin\Debug\netcoreapp3.1\TaskForIntEqualsArr.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\bin\Debug\netcoreapp3.1\TaskForIntEqualsArr.dll
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\bin\Debug\netcoreapp3.1\TaskForIntEqualsArr.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\obj\Debug\netcoreapp3.1\TaskForIntEqualsArr.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\obj\Debug\netcoreapp3.1\TaskForIntEqualsArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\obj\Debug\netcoreapp3.1\TaskForIntEqualsArr.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\obj\Debug\netcoreapp3.1\TaskForIntEqualsArr.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\obj\Debug\netcoreapp3.1\TaskForIntEqualsArr.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\obj\Debug\netcoreapp3.1\TaskForIntEqualsArr.dll
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\obj\Debug\netcoreapp3.1\TaskForIntEqualsArr.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForIntEqualsArr\obj\Debug\netcoreapp3.1\TaskForIntEqualsArr.genruntimeconfig.cache

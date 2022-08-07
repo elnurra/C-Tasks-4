@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.exe
+C:\Users\User\source\repos\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.deps.json
+C:\Users\User\source\repos\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.runtimeconfig.json
+C:\Users\User\source\repos\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.runtimeconfig.dev.json
+C:\Users\User\source\repos\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.dll
+C:\Users\User\source\repos\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.pdb
+C:\Users\User\source\repos\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.AssemblyInfo.cs
+C:\Users\User\source\repos\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.dll
+C:\Users\User\source\repos\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.pdb
+C:\Users\User\source\repos\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.exe
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.deps.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.dll
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\bin\Debug\netcoreapp3.1\TaskForVowelLetter.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.dll
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForVowelLetter\obj\Debug\netcoreapp3.1\TaskForVowelLetter.genruntimeconfig.cache

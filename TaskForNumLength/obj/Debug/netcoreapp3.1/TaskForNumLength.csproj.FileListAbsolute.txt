@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.exe
+C:\Users\User\source\repos\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.deps.json
+C:\Users\User\source\repos\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.runtimeconfig.json
+C:\Users\User\source\repos\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.runtimeconfig.dev.json
+C:\Users\User\source\repos\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.dll
+C:\Users\User\source\repos\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.pdb
+C:\Users\User\source\repos\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.AssemblyInfo.cs
+C:\Users\User\source\repos\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.dll
+C:\Users\User\source\repos\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.pdb
+C:\Users\User\source\repos\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.exe
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.deps.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.dll
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\bin\Debug\netcoreapp3.1\TaskForNumLength.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.dll
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-3\TaskForNumLength\obj\Debug\netcoreapp3.1\TaskForNumLength.genruntimeconfig.cache

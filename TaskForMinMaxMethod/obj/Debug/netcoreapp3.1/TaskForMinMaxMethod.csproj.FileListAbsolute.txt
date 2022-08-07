@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TaskForMinMaxMethod\bin\Debug\netcoreapp3.1\TaskForMinMaxMethod.exe
+C:\Users\User\source\repos\TaskForMinMaxMethod\bin\Debug\netcoreapp3.1\TaskForMinMaxMethod.deps.json
+C:\Users\User\source\repos\TaskForMinMaxMethod\bin\Debug\netcoreapp3.1\TaskForMinMaxMethod.runtimeconfig.json
+C:\Users\User\source\repos\TaskForMinMaxMethod\bin\Debug\netcoreapp3.1\TaskForMinMaxMethod.runtimeconfig.dev.json
+C:\Users\User\source\repos\TaskForMinMaxMethod\bin\Debug\netcoreapp3.1\TaskForMinMaxMethod.dll
+C:\Users\User\source\repos\TaskForMinMaxMethod\bin\Debug\netcoreapp3.1\TaskForMinMaxMethod.pdb
+C:\Users\User\source\repos\TaskForMinMaxMethod\obj\Debug\netcoreapp3.1\TaskForMinMaxMethod.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TaskForMinMaxMethod\obj\Debug\netcoreapp3.1\TaskForMinMaxMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TaskForMinMaxMethod\obj\Debug\netcoreapp3.1\TaskForMinMaxMethod.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TaskForMinMaxMethod\obj\Debug\netcoreapp3.1\TaskForMinMaxMethod.AssemblyInfo.cs
+C:\Users\User\source\repos\TaskForMinMaxMethod\obj\Debug\netcoreapp3.1\TaskForMinMaxMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskForMinMaxMethod\obj\Debug\netcoreapp3.1\TaskForMinMaxMethod.dll
+C:\Users\User\source\repos\TaskForMinMaxMethod\obj\Debug\netcoreapp3.1\TaskForMinMaxMethod.pdb
+C:\Users\User\source\repos\TaskForMinMaxMethod\obj\Debug\netcoreapp3.1\TaskForMinMaxMethod.genruntimeconfig.cache
